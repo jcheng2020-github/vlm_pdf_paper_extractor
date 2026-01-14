@@ -1,0 +1,14 @@
+# Core PDF processing (page rendering + fast access)
+pymupdf>=1.23.0
+
+# Text extraction (layout-aware)
+pdfminer.six>=20231228
+
+# Image handling
+Pillow>=10.0.0
+
+# OpenAI API (Responses API + vision models)
+openai>=1.40.0
+
+# Optional
+tqdm>=4.66.0
